@@ -1,4 +1,4 @@
-# COURSE_NAME
+# Practical machine learning course
 
 In this course, you'll dive into: ...
 
@@ -12,5 +12,5 @@ Prerequisites for this course are:
 | 2        | ml, classification, logistic regression, knn                            | 04-05        | 1,2          |
 | 3        | random forest, pydantic, data validation, oop for data                  | 06-07        | 3            |
 | 4        | fastapi basics, fastapi serve data                                      | 08-09        | 4            |
-| 5        | fastapi serve ml,                                                       | 10-11        | 5            |
-| 6        |                                                                         | 10-11        | 5            |
+| 5        | fastapi serve ml                                                        | 10-11        | lab          |
+| 6        |                                                                         | 10-11        | lab          |
