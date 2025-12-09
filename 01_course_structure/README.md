@@ -1,8 +1,9 @@
-# Course structure
+# Course structure of machine learning course
 
 
 **part 1 - video on course structure**
 
+TODO: video
 
 <!-- <a href="https://www.youtube.com/watch?v=YZxZt7plGyI" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/course_structure.png?raw=true" alt="course structure" width="600">
