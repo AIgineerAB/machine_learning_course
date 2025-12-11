@@ -17,6 +17,8 @@
 
 ## Other videos 📹
 
+Watch these if you want to dive deeper into concepts of overfitting and underfitting model training and what to do about it. It's good to know these concepts, but also okay to skip to continue with the course. 
+
 **part 1 - overfitting and underfitting theory**
 
 <a href="https://youtu.be/MbzCTgxvadw" target="_blank">
@@ -46,3 +48,5 @@
 
 
 ## Read more 👓
+
+- [linear regression - geeksforgeeks ](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)
