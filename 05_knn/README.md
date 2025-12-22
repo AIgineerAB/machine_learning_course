@@ -17,4 +17,6 @@
 
 ## Other videos 📹
 
+- [KNN - simplilearn](https://www.youtube.com/watch?v=4HKqjENq9OU&t=4s)
+
 ## Read more 👓
