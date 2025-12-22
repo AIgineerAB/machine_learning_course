@@ -35,5 +35,16 @@
 - [Decision tree classification - Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
 - [Decision tree regression - Normalized Nerd](https://www.youtube.com/watch?v=UhY5vPfQIrA&list=RDCMUC7Fs-Fdpe0I8GYg3lboEuXw&index=3)
 
+**Random forest**
+- [Random forest](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
+
 
 ## Read more 👓
+
+**Random forest**
+- [RandomForestRegressor - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+- [RandomForestClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [Tune hyperparameters - towardsdatascience](https://towardsdatascience.com/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d)
+- [Random forest - wikipedia](https://en.wikipedia.org/wiki/Random_forest)
+- [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
+- [ISLRv2 pp. 327-352](https://www.statlearning.com/)
