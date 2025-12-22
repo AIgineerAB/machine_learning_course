@@ -30,4 +30,10 @@
 
 ## Other videos 📹
 
+
+**Decision tree:**
+- [Decision tree classification - Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
+- [Decision tree regression - Normalized Nerd](https://www.youtube.com/watch?v=UhY5vPfQIrA&list=RDCMUC7Fs-Fdpe0I8GYg3lboEuXw&index=3)
+
+
 ## Read more 👓

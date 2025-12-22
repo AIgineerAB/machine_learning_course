@@ -56,7 +56,7 @@ Check out exercise pikachu_pichu under the folder extra. This is quite good exer
 
 
 ---
-if you have time over and want to explore some simple image processing do this exercise.
+if you have time over and want to explore some simple image processing do this exercise. Check a2 to learn basics of image processing before starting with this exercise.
 
 ## 4. MNIST data (\*)
 
