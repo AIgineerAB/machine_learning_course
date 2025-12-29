@@ -1,5 +1,7 @@
 # Pydantic to work with data using OOP
 
+Part 2 and 3 are extra, if you want to dive into how to work with pydantic and LLMs. For this course only part 1 is neccessary
+
 **part 1 - pydantic basics**
 
 <a href="https://youtu.be/hHCMUc3gv40" target="_blank">
@@ -7,6 +9,7 @@
 </a>
 
 
+## Extra for the curious ones
 <br/>
 <br/>
 
