@@ -1,0 +1,75 @@
+{
+  "name": "Coolu Libraru",
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year": 1979,
+      "description": "A humorous science‑fiction adventure following an ordinary man through absurd and unexpected cosmic events."
+    },
+    {
+      "id": 2,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "description": "A classic romantic novel exploring love, class, and misunderstandings in 19th‑century England."
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "description": "A dystopian story about totalitarian control, surveillance, and the loss of individual freedom."
+    },
+    {
+      "id": 4,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "description": "A powerful novel about racial injustice and moral growth in the American South."
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "description": "A tragic tale of wealth, ambition, and lost love during the Jazz Age."
+    },
+    {
+      "id": 6,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "description": "An epic sea story about obsession and revenge centered on a legendary white whale."
+    },
+    {
+      "id": 7,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "year": 1869,
+      "description": "A sweeping historical novel that weaves together personal lives and major events during the Napoleonic Wars."
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "description": "A fantasy epic about the struggle between good and evil in a richly imagined world."
+    },
+    {
+      "id": 9,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year": 1866,
+      "description": "A psychological novel exploring guilt, morality, and redemption after a troubled man commits a crime."
+    },
+    {
+      "id": 10,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year": 1605,
+      "description": "A comedic and philosophical tale of a man who believes he is a knight on a quest for honor."
+    }
+  ]
+}
