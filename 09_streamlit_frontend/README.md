@@ -3,9 +3,9 @@
 
 **Streamlit frontend**
 
-<!-- <a href="https://youtu.be/YKNCZ_AM-R0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/fastapi/fastapi_crud_theory.png?raw=true" alt="pydantic for data validation" width="600">
-</a> -->
+<a href="https://youtu.be/nGRtRqZSVkY" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/fastapi/streamlit_fastapi.png?raw=true" alt="pydantic for data validation" width="600">
+</a>
 
  
 <!-- **Practical coding**
@@ -20,6 +20,6 @@ In the previous lecture we built a CRUD API, now it's time to consume it using a
 
 
 ## Read more
-- [pydantic docs](https://docs.pydantic.dev/latest/)
+- [Streamlit documentation](https://docs.streamlit.io/)
 
 ## Other videos
