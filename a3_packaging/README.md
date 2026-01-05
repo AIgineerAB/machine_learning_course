@@ -6,4 +6,8 @@ In Python you need to create a package in order to simplify importing modules fr
 uv init --package <name>
 ```
 
-TODO: video
+Watch this video to learn about packaging
+
+<a href="https://youtu.be/ISBgzg533GQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/machine_learning/packaging.png?raw=true" alt="packaging with uv" width="600">
+</a>
