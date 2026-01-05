@@ -6,6 +6,17 @@ resolution-markers = [
     "python_full_version < '3.12'",
 ]
 
+[manifest]
+members = [
+    "a3-packaging",
+    "machine-learning-course",
+]
+
+[[package]]
+name = "a3-packaging"
+version = "0.1.0"
+source = { editable = "a3_packaging" }
+
 [[package]]
 name = "altair"
 version = "6.0.0"
