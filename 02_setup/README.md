@@ -3,9 +3,14 @@
 In the following we'll setup an empty github repository, clone it and then setup virtual environment using the package manager uv.
 
 > [!NOTE]
+> if you don't have uv installed do `pip install uv`
+
+
+<!-- 
+> [!NOTE]
 > This is different from working with `uv venv`, `uv pip install ...`
 > which are part of the manual workflow and is more traditional. Following the steps below with uv will show you modern and project approach to work with virtual environment. Also using `uv run` we won't need to activate virtual environment
-> 
+>  -->
 
 1. Create a github repository in github
 2. Clone it to your desired path locally using git bash or terminal
@@ -29,13 +34,10 @@ it will create the following for you
 4. Install neccessary packages
 
 ```bash
-uv add pandas ipykernel scikit-learn matplotlib
+uv add pandas pydantic-ai ipykernel
 ```
 
 We will install more packages when needing them
-
-> [!NOTE]
-> if you don't have uv installed do `pip install uv`
 
 ## Terminology
 
